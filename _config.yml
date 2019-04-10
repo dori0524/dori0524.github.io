@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "갈아만든 상추의 느린 노트"
 title_separator          : "-"
 name                     : "Your Name"
 description              : "An amazing website."
