@@ -4,6 +4,7 @@ search: false
 categories: 
   - Jekyll
 last_modified_at: 2018-02-19T08:06:00-05:00
+use_math: true
 ---
 
 This post should not appear in the search index because it has the following YAML Front Matter:
@@ -27,3 +28,10 @@ algolia:
     - _posts/2017-11-28-post-exclude-search.md
     - subdirectory/*.html
 ```
+This formula $f(x) = x^2$ is an example.
+
+$$
+\lim_{x\to 0}{\frac{e^x-1}{2x}}
+\overset{\left[\frac{0}{0}\right]}{\underset{\mathrm{H}}{=}}
+\lim_{x\to 0}{\frac{e^x}{2}}={\frac{1}{2}}
+$$
